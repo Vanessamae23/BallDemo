@@ -11,7 +11,7 @@ import SwiftUI
 struct BallDemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DrawView()
         }
     }
 }
